@@ -81,3 +81,4 @@ D:\C\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net6.0\runtimes\win-x64\native\
 D:\C\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
 D:\C\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
 D:\C\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\C\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll

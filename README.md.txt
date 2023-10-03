@@ -1,0 +1,2 @@
+Para utilizar o programa é necessário criar uma conexão com o banco de dados valida e passar no Appsettins.json 
+Após isso utilize o comando "update-database" e criará automaticamente o banco de dados para ser utilizado pelo programa

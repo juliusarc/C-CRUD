@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jXpLZgK9OYK9vwWrl0WK7c1oOlm6kIjwp+JNti/AGqSwfZNSoZqewkBlci87cmkA8C3+XPNmt/Eu7XUQZIm0mw==",
+  "dgSpecHash": "gq0hXWOb+pYaVfQ0BhWbENp0+rYW+y/hDmw1N7ZnTeA5GYFOfc2AHScgQW0PKGGX9sFgKWLV7IqdcoN11CjK5g==",
   "success": true,
   "projectFilePath": "D:\\C\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
   "expectedPackageFiles": [
@@ -44,6 +44,7 @@
     "C:\\Users\\juliu\\.nuget\\packages\\mysqlconnector\\2.2.7\\mysqlconnector.2.2.7.nupkg.sha512",
     "C:\\Users\\juliu\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
     "C:\\Users\\juliu\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\juliu\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\6.5.0\\swashbuckle.aspnetcore.annotations.6.5.0.nupkg.sha512",
     "C:\\Users\\juliu\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\juliu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
     "C:\\Users\\juliu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
